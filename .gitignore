@@ -1,0 +1,41 @@
+# =========================
+# Python cache
+# =========================
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# LaTeX temporary files
+# =========================
+report/*.aux
+report/*.fdb_latexmk
+report/*.fls
+report/*.log
+report/*.out
+report/*.synctex.gz
+report/*.toc
+report/*.lof
+report/*.lot
+report/*.bbl
+report/*.blg
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+temp.py
